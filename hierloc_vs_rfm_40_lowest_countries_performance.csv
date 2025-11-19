@@ -1,0 +1,41 @@
+Country,Training Samples,Mean Error HierLoc (km),Mean Error RFM (km),HierLoc Better?
+Sint Maarten (Dutch part),5,726.8,2323.0,✅ Yes
+Saint Martin (French part),7,265.9,7861.2,✅ Yes
+"Bonaire, Sint Eustatius and Saba",8,4622.8,4778.4,✅ Yes
+Aruba,19,5593.8,7943.9,✅ Yes
+"Virgin Islands, U.S.",21,4069.8,4835.6,✅ Yes
+Tuvalu,35,7780.8,8702.1,✅ Yes
+French Polynesia,61,7334.5,9587.0,✅ Yes
+Eritrea,67,3325.3,3323.2,❌ No
+Anguilla,131,8156.9,6797.9,❌ No
+Christmas Island,135,6173.2,6913.6,✅ Yes
+Congo,141,2522.6,2687.5,✅ Yes
+Comoros,160,2528.7,4261.1,✅ Yes
+Gabon,176,3480.3,2438.2,❌ No
+Somalia,177,3176.3,2129.1,❌ No
+Svalbard and Jan Mayen,189,297.0,1191.5,✅ Yes
+Equatorial Guinea,208,3431.4,3046.5,❌ No
+Montserrat,212,5320.1,2402.6,❌ No
+Kiribati,236,6555.6,7545.5,✅ Yes
+Curaçao,244,1154.0,1484.9,✅ Yes
+Djibouti,253,1919.5,2403.0,✅ Yes
+Tonga,283,6294.8,9365.3,✅ Yes
+Sao Tome and Principe,289,5426.1,8706.7,✅ Yes
+Palau,356,7668.1,10800.7,✅ Yes
+Eswatini,392,152.4,527.4,✅ Yes
+Guinea-Bissau,402,1000.1,1554.4,✅ Yes
+Sudan,433,3103.1,2662.9,❌ No
+Falkland Islands (Malvinas),452,8962.6,11243.7,✅ Yes
+New Caledonia,460,9017.0,7498.3,❌ No
+Puerto Rico,474,4234.0,4941.7,✅ Yes
+Burundi,482,1749.4,1247.1,❌ No
+South Sudan,499,2621.2,2080.5,❌ No
+Turks and Caicos Islands,511,2.1,323.6,✅ Yes
+Grenada,522,786.1,1101.1,✅ Yes
+"Korea, Democratic People's Republic of",534,5854.5,6816.9,✅ Yes
+Saint Kitts and Nevis,539,348.4,1103.3,✅ Yes
+Samoa,555,1779.7,1670.7,❌ No
+Chad,557,1206.4,1668.2,✅ Yes
+Mauritania,574,304.6,446.7,✅ Yes
+Niger,585,1298.4,1229.6,❌ No
+French Guiana,639,2513.5,3321.1,✅ Yes
